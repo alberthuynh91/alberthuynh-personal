@@ -332,11 +332,24 @@
                 "modal": "https://c1.staticflickr.com/5/4789/40705673581_e0e8a7683e_b.jpg",
                 "thumb": "https://c1.staticflickr.com/5/4789/40705673581_e0e8a7683e_b.jpg"
             },
-            "releaseDate": "April 1, 2014",
+            "releaseDate": "April 1, 2011",
             "genres": ["rock", "lo-fi", "dream pop", "alternative"],
             "favoriteTracks": ["Out in the Way", "What a Pleasure", "Fall Right In", "Calyer", "Adversity"],
             "listen": "https://soundcloud.com/lucas-dib-n/sets/beach-fossils-what-a",
             "thoughts": "Not much to say about this album. It's some chill shit I love. Surfs up."
+        },
+        {
+            "artist": "Kanye West",
+            "album": "College Dropout",
+            "image": {
+                "modal": "https://c1.staticflickr.com/5/4783/40662871882_044c91848b_b.jpg",
+                "thumb": "https://c1.staticflickr.com/5/4783/40662871882_044c91848b_b.jpg"
+            },
+            "releaseDate": "February 10, 2004",
+            "genres": ["hip hop", "the realest shit i've ever heard"],
+            "favoriteTracks": ["Last Call", "Through The Wire", "Family Business", "We Don't Care", "Spaceship", "All Falls Down"],
+            "listen": "https://soundcloud.com/kanyewest/sets/the-college-dropout-1",
+            "thoughts": "I miss the only kanye. Straight from the soul kanye."
         }
     ]
 }
