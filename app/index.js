@@ -19,7 +19,8 @@ function getNavigation() {
         education: 'Education',
         skill: 'Skills',
         portfolio: 'Portfolio',
-        testimonials: 'References'
+        testimonials: 'References',
+        goodlistens: 'Good Listens'
     };
 }
 

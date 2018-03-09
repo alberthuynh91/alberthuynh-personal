@@ -284,5 +284,33 @@
             "company": "Slack",
             "reference": "I loved working with Albert. What stood out to me was that Albert has great taste, whether that pertains to mobile styling or code clarity. It seems to physically bother him when something is janky, ugly, or otherwise a bad experience for users or developers. Albert is also a very honest and empathic communicator who cares a lot about the work and how everyone on the team is doing. He is generous with feedback and encourages an open and trusting culture. Finally, he’s a sharp and intuitive engineer who is not afraid to tackle any part of the stack or dive into unfamiliar waters. I’d jump at the opportunity to work with him again."
         }
+    ],
+    "goodlistens": [
+        {
+            "artist": "Tyler The Creator",
+            "album": "Flower Boy",
+            "image": {
+                "modal": "https://c1.staticflickr.com/5/4777/40662009652_73935a83f6_b.jpg",
+                "thumb": "https://c1.staticflickr.com/5/4771/40704760921_361808bcf6_o.png"
+            },
+            "releaseDate": "July 21, 2017",
+            "genres": ["hip hop", "neo soul", "alternative hip hop"],
+            "favoriteTracks": ["911 / Mr. Lonely", "Where This Flower Blooms", "Boredom", "See You Again", "Who Dat Boy"],
+            "listen": "https://soundcloud.com/tylerthecreatorofficial/sets/flower-boy-3",
+            "thoughts": "I first heard about Tyler from his break through single Yonkers. I remember the day it dropped it BROKE THE INTERNET. Ever since then I was never really big on Tyler (or Odd Future), but shit changed after Flower Boy. Love the over all mood of this album. It's very easy listening for the most part and I love the features. Tyler did a great job with this project and it is easily one of my favorites from 2017."
+        },
+        {
+            "artist": "Isaiah Rashad",
+            "album": "Cilvia Demo",
+            "image": {
+                "modal": "https://c1.staticflickr.com/5/4798/40704998361_2db0040a90_o.jpg",
+                "thumb": "https://c1.staticflickr.com/5/4798/40704998361_d6fbc7f1bb_m.jpg"
+            },
+            "releaseDate": "January 28, 2014",
+            "genres": ["hip hop", "neo soul", "alternative hip hop"],
+            "favoriteTracks": ["Shot You Down", "Heavenly Father", "West Savannah", "Webbie Flow (U Like)", "R.I.P Kevin Miller"],
+            "listen": "https://soundcloud.com/tyler-grant/sets/cilvia-demo-isaiah-rashad",
+            "thoughts": "First discovered Isaiah back in 2015 through Pandora. I remember being in the garage working on my car and one of his songs came on while on the Kendrick Lamar Station. The song that came on was Shot You Down. Literally one minute in was all it took and I was HOOKED. TDE FRESHMAN KILLIN IT. Isaiah is super underated. Also check out Isaiah's other project The Sun's Tirade. You won't regret it."
+        }
     ]
 }
