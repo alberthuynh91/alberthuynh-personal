@@ -350,6 +350,19 @@
             "favoriteTracks": ["Last Call", "Through The Wire", "Family Business", "We Don't Care", "Spaceship", "All Falls Down"],
             "listen": "https://soundcloud.com/kanyewest/sets/the-college-dropout-1",
             "thoughts": "I miss the old Kanye... straight from the Go Kanye. Chop up the soul Kanye. Set on his goals Kanye..."
+        },
+        {
+            "artist": "YGTUT",
+            "album": "Preacher's $on",
+            "image": {
+                "modal": "https://c1.staticflickr.com/5/4773/26833938168_17a5edba61_b.jpg",
+                "thumb": "https://c1.staticflickr.com/5/4773/26833938168_17a5edba61_b.jpg"
+            },
+            "releaseDate": "May 2, 2015",
+            "genres": ["hip hop", "neo soul"],
+            "favoriteTracks": ["Last Call", "Through The Wire", "Family Business", "We Don't Care", "Spaceship", "All Falls Down"],
+            "listen": "https://soundcloud.com/ygtut/sets/preachers-son",
+            "thoughts": "I miss the old Kanye... straight from the Go Kanye. Chop up the soul Kanye. Set on his goals Kanye..."
         }
     ]
 }
