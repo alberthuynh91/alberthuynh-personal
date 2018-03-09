@@ -363,6 +363,19 @@
             "favoriteTracks": ["Last Call", "Through The Wire", "Family Business", "We Don't Care", "Spaceship", "All Falls Down"],
             "listen": "https://soundcloud.com/ygtut/sets/preachers-son",
             "thoughts": "I miss the old Kanye... straight from the Go Kanye. Chop up the soul Kanye. Set on his goals Kanye..."
+        },
+        {
+            "artist": "Freddie Gibbs and Madlib",
+            "album": "Piñata",
+            "image": {
+                "modal": "https://c1.staticflickr.com/5/4795/40662959912_1de167175e_o.jpg",
+                "thumb": "https://c1.staticflickr.com/5/4795/40662959912_1de167175e_o.jpg"
+            },
+            "releaseDate": "March 18, 2014",
+            "genres": ["hip hop"],
+            "favoriteTracks": ["Robes", "Harold's", "Higher", "We Don't Care", "Lakers", "Knicks", "Deeper"],
+            "listen": "https://soundcloud.com/ygtut/sets/preachers-son",
+            "thoughts": "I miss the old Kanye... straight from the Go Kanye. Chop up the soul Kanye. Set on his goals Kanye..."
         }
     ]
 }
