@@ -30,15 +30,14 @@ const Entry = React.createClass({
     },
 
     render: function () {
-        console.log(`what is props in goodlistens: `, this.props)
         return (
-            <div className='columns portfolio-item'>
+            <div className='columns goodlistens-item'>
                 <div className='item-wrap' onClick={this.handleOpenModal}>
                     <img
                         src={this.props.entry.image.thumb}
                         alt={this.props.entry.artist}/>
                     <div className='overlay'>
-                        <div className='portfolio-item-meta'>
+                        <div className='goodlistens-item-meta'>
                             <h5>{this.props.entry.artist}</h5>
                             <p>{this.props.entry.album}</p>
                         </div>
@@ -61,11 +60,11 @@ const GoodListens = React.createClass({
     render: function () {
         const portfolio = Random.shuffleArray(this.props.content).slice(0, 8);
         return (
-            <section id='portfolio'>
+            <section id='goodlistens'>
                 <div className='row'>
                     <div className='twelve columns collapsed'>
-                        <h1>Good Listens</h1>
-                        <div id='portfolio-wrapper' className='bgrid-quarters s-bgrid-thirds cf'>
+                        <h1><img width="75" src="http://i0.kym-cdn.com/photos/images/original/000/993/254/70f.gif" />Good Listens <img width="75" src="http://bestanimations.com/Cartoons/Simpsons/the-simpsons-animated-gif-2.gif" /></h1>
+                        <div id='goodlistens-wrapper' className='bgrid-quarters s-bgrid-thirds cf'>
                             {portfolio.map(function (entry, index) {
                                 return (
                                     <Entry key={index} index={index} entry={entry}/>

@@ -290,8 +290,8 @@
             "artist": "Tyler The Creator",
             "album": "Flower Boy",
             "image": {
-                "modal": "https://c1.staticflickr.com/5/4777/40662009652_73935a83f6_b.jpg",
-                "thumb": "https://c1.staticflickr.com/5/4771/40704760921_361808bcf6_o.png"
+                "modal": "https://c1.staticflickr.com/5/4777/40662009652_73935a83f6_c.jpg",
+                "thumb": "https://c1.staticflickr.com/5/4777/40662009652_73935a83f6_c.jpg"
             },
             "releaseDate": "July 21, 2017",
             "genres": ["hip hop", "neo soul", "alternative hip hop"],
@@ -304,13 +304,26 @@
             "album": "Cilvia Demo",
             "image": {
                 "modal": "https://c1.staticflickr.com/5/4798/40704998361_2db0040a90_o.jpg",
-                "thumb": "https://c1.staticflickr.com/5/4798/40704998361_d6fbc7f1bb_m.jpg"
+                "thumb": "https://c1.staticflickr.com/5/4798/40704998361_2db0040a90_o.jpg"
             },
             "releaseDate": "January 28, 2014",
             "genres": ["hip hop", "neo soul", "alternative hip hop"],
             "favoriteTracks": ["Shot You Down", "Heavenly Father", "West Savannah", "Webbie Flow (U Like)", "R.I.P Kevin Miller"],
             "listen": "https://soundcloud.com/tyler-grant/sets/cilvia-demo-isaiah-rashad",
             "thoughts": "First discovered Isaiah back in 2015 through Pandora. I remember being in the garage working on my car and one of his songs came on while on the Kendrick Lamar Station. The song that came on was Shot You Down. Literally one minute in was all it took and I was HOOKED. TDE FRESHMAN KILLIN IT. Isaiah is super underated. Also check out Isaiah's other project The Sun's Tirade. You won't regret it."
+        },
+        {
+            "artist": "Mac Demarco",
+            "album": "Salad Days",
+            "image": {
+                "modal": "https://c1.staticflickr.com/5/4798/26833453048_532738bc8b_o.jpg",
+                "thumb": "https://c1.staticflickr.com/5/4798/26833453048_532738bc8b_o.jpg"
+            },
+            "releaseDate": "April 1, 2014",
+            "genres": ["soft rock", "lo-fi", "psychedelic pop"],
+            "favoriteTracks": ["Blue Boy", "Let Her Go", "Chamber Of Reflection", "Passing Out Pieces", "Go Easy"],
+            "listen": "https://soundcloud.com/mac-demarco-official/sets/salad-days-3",
+            "thoughts": "Mac Demarco is just simply the sickest fucking dude. Super easy going album with some awesome work on the strings. Don't sleep on my boy Mac. Also check out his other tape '2'"
         }
     ]
 }

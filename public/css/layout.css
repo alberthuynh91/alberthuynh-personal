@@ -818,6 +818,185 @@ strong.fa-quora {
    opacity: 0;
 }
 
+
+
+/* ------------------------------------------------------------------ */
+/* e. Good Listens Section
+/* ------------------------------------------------------------------ */
+
+#goodlistens {
+  background: #ff4d94;
+  padding-top: 90px;
+  padding-bottom: 60px;
+}
+#goodlistens h1 {
+  font: 24px/32px 'opensans-semibold', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
+  margin-bottom: 48px;
+  color: #000000;
+}
+
+/* goodlistens Content */
+#goodlistens-wrapper .columns { margin-bottom: 36px; }
+.goodlistens-item .item-wrap {
+  background: #fff;
+  overflow: hidden;
+  position: relative;
+
+  -webkit-transition: all 0.3s ease-in-out;
+ -moz-transition: all 0.3s ease-in-out;
+ -o-transition: all 0.3s ease-in-out;
+ -ms-transition: all 0.3s ease-in-out;
+ transition: all 0.3s ease-in-out;
+}
+.goodlistens-item .item-wrap a {
+  display: block;
+  cursor: pointer;
+}
+
+/* overlay */
+.goodlistens-item .item-wrap .overlay {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+
+ opacity: 0;
+ -moz-opacity: 0;
+ filter:alpha(opacity=0);
+
+  -webkit-transition: opacity 0.3s ease-in-out;
+ -moz-transition: opacity 0.3s ease-in-out;
+ -o-transition: opacity 0.3s ease-in-out;
+ transition: opacity 0.3s ease-in-out;
+
+  background: url(../images/overlay-bg.png) repeat;
+}
+.goodlistens-item .item-wrap .link-icon {
+  display: block;
+  color: #fff;
+  height: 30px;
+  width: 30px;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+
+  opacity: 0;
+ -moz-opacity: 0;
+ filter:alpha(opacity=0);
+
+  -webkit-transition: opacity 0.3s ease-in-out;
+ -moz-transition: opacity 0.3s ease-in-out;
+ -o-transition: opacity 0.3s ease-in-out;
+ transition: opacity 0.3s ease-in-out;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -15px;
+  margin-top: -15px;
+}
+.goodlistens-item .item-wrap img {
+  vertical-align: bottom;
+}
+.goodlistens-item .goodlistens-item-meta { padding: 18px }
+.goodlistens-item .goodlistens-item-meta h5 {
+  font: 14px/21px 'opensans-bold', sans-serif;
+  color: #fff;
+}
+.goodlistens-item .goodlistens-item-meta p {
+  font: 12px/18px 'opensans-light', sans-serif;
+  color: #c6c7c7;
+  margin-bottom: 0;
+}
+
+/* on hover */
+.goodlistens-item:hover .overlay {
+ opacity: 1;
+ -moz-opacity: 1;
+ filter:alpha(opacity=100);
+}
+.goodlistens-item:hover .link-icon {
+  opacity: 1;
+ -moz-opacity: 1;
+ filter:alpha(opacity=100);
+}
+
+/* popup modal */
+.popup-modal {
+ max-width: 500px;
+ max-height: 90%;
+ overflow: auto;
+ background: #fff;
+ position: fixed;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%)
+}
+.popup-modal .description-box { padding: 12px 36px 18px 36px; }
+.popup-modal .description-box h4 {
+  font: 15px/24px 'opensans-bold', sans-serif;
+ margin-bottom: 12px;
+  color: #111;
+}
+.popup-modal .description-box p {
+ font: 14px/24px 'opensans-regular', sans-serif;
+  color: #838C95;
+  margin-bottom: 12px;
+}
+.popup-modal .description-box .categories {
+  font: 12px/21px 'opensans-light', sans-serif;
+  color: #838C95;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  display: block;
+  text-align: left;
+}
+.popup-modal .description-box .categories i {
+  margin-right: 8px;
+}
+.popup-modal .link-box {
+  padding: 18px 36px;
+  background: #111;
+  text-align: left;
+}
+.popup-modal .link-box a {
+  color: #fff;
+ font: 11px/21px 'opensans-bold', sans-serif;
+ text-transform: uppercase;
+  letter-spacing: 3px;
+  cursor: pointer;
+}
+.popup-modal a:hover {	color: #00CCCC; }
+.popup-modal a.popup-modal-dismiss { margin-left: 24px; }
+
+
+/* fadein/fadeout effect for modal popup
+/* ------------------------------------------------------------------ */
+
+/* content at start */
+.mfp-fade.mfp-wrap .mfp-content .popup-modal {
+  opacity: 0;
+  -webkit-transition: all 200ms ease-in-out;
+ -moz-transition: all 200ms ease-in-out;
+ -o-transition: all 200ms ease-in-out;
+ -ms-transition: all 200ms ease-in-out;
+  transition: all 200ms ease-in-out;
+}
+/* content fadein */
+.mfp-fade.mfp-wrap.mfp-ready .mfp-content .popup-modal {
+  opacity: 1;
+}
+/* content fadeout */
+.mfp-fade.mfp-wrap.mfp-removing .mfp-content .popup-modal {
+  opacity: 0;
+}
+
+
+
 /* ------------------------------------------------------------------ */
 /* f. Call To Action Section
 /* ------------------------------------------------------------------ */
