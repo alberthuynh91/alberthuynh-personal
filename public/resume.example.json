@@ -65,7 +65,7 @@
             "summary": "San Mateo, CA",
             "highlights": [
                 "Built Fanatics Promo Tool used in creating new promotions for Fanatics.com e-commerce site",
-                "Implemented various features on Fanatics Internal Tool from end to end including features used in Experimentation and Content Editor",
+                "Implemented various features on Fanatics Internal Tool from end-to-end including features used in Experimentation and Content Editor",
                 "Technologies I worked with: React, NodeJS, Redux, Mobx, Elasticsearch, Golang, MySQL, AWS"
             ]
         },
