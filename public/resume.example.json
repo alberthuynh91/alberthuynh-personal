@@ -212,7 +212,7 @@
                 },
                 {
                     "name": "AngularJS",
-                    "level": "60",
+                    "level": "75",
                     "keywords": [
                         "angular",
                         "angularjs"
@@ -220,7 +220,7 @@
                 },
                 {
                     "name": "Redux",
-                    "level": "75",
+                    "level": "80",
                     "keywords": [
                         "react-redux",
                         "redux"
@@ -228,7 +228,7 @@
                 },
                 {
                     "name": "MobX",
-                    "level": "75",
+                    "level": "80",
                     "keywords": [
                         "mobx"
                     ]
