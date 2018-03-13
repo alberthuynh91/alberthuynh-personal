@@ -58,14 +58,14 @@ const GoodListens = React.createClass({
     },
 
     render: function () {
-        const portfolio = Random.shuffleArray(this.props.content).slice(0, 8);
+        const listens = Random.shuffleArray(this.props.content).slice(0, 20);
         return (
             <section id='goodlistens'>
                 <div className='row'>
                     <div className='twelve columns collapsed'>
                         <h1><img width="75" src="http://i0.kym-cdn.com/photos/images/original/000/993/254/70f.gif" />Good Listens <img width="75" src="http://bestanimations.com/Cartoons/Simpsons/the-simpsons-animated-gif-2.gif" /></h1>
                         <div id='goodlistens-wrapper' className='bgrid-quarters s-bgrid-thirds cf'>
-                            {portfolio.map(function (entry, index) {
+                            {listens.map(function (entry, index) {
                                 return (
                                     <Entry key={index} index={index} entry={entry}/>
                                 );
