@@ -310,7 +310,7 @@
             "genres": ["hip hop", "neo soul", "alternative hip hop"],
             "favoriteTracks": ["Shot You Down", "Heavenly Father", "West Savannah", "Webbie Flow (U Like)", "R.I.P Kevin Miller"],
             "listen": "https://soundcloud.com/tyler-grant/sets/cilvia-demo-isaiah-rashad",
-            "thoughts": "First discovered Isaiah back in 2015 through Pandora. I remember being in the garage working on my car and one of his songs came on while on the Kendrick Lamar Station. The song that came on was Shot You Down. Literally one minute in was all it took and I was HOOKED. TDE FRESHMAN KILLIN IT. Isaiah is super underated. Also check out Isaiah's other project The Sun's Tirade. You won't regret it."
+            "thoughts": "First discovered Isaiah back in 2015 through Pandora. I remember being in the garage working on my car and one of his songs came on while on the Kendrick Lamar Station. The song that came on was Shot You Down. Literally one minute in was all it took and I was HOOKED. TDE FRESHMAN KILLIN IT. Isaiah is super underated. DON'T SLEEP ON HIM. Also check out Isaiah's other project The Sun's Tirade. You won't regret it."
         },
         {
             "artist": "Mac Demarco",
@@ -362,7 +362,7 @@
             "genres": ["hip hop", "neo soul"],
             "favoriteTracks": ["Sunday Service", "Fall of Goliath", "Living On the Sun", "Holy Water", "Highs & Lows", "Corner Stories 2"],
             "listen": "https://soundcloud.com/ygtut/sets/preachers-son",
-            "thoughts": "Love this entire tape front to back. Love everything from the soulful beats to TUT's smooth flows. I fuck with Chattanooga, Tennessee! This album is a 10/10 for me. One of the top hip hop albums to come out in this generation."
+            "thoughts": "Love this entire tape front to back. Love everything from the soulful beats to TUT's smooth flows. I fuck with Chattanooga, Tennessee! This album is a 10/10 for me. One of the top hip hop albums to come out of this generation."
         },
         {
             "artist": "Freddie Gibbs and Madlib",
@@ -388,7 +388,7 @@
             "genres": ["hip hop", "neo soul"],
             "favoriteTracks": ["A.D.H.D", "Hol' Up", "Blow My High", "Rigamortus", "Fuck Your Ethnicity", "Chapter Six"],
             "listen": "https://soundcloud.com/your-strongest-ally/sets/kendrick-lamar-section-80",
-            "thoughts": "To be honest, I love every single one of Kendrick's albums... I chose Section.80 specifically because it was the first Kendrick album I fell in love with and the one I feel like most people know the least. This is easily a front to back."
+            "thoughts": "To be honest, I love every single one of Kendrick's albums... I chose Section.80 specifically because it was the first Kendrick album I fell in love with and the one I feel like most people know the least. This is easily a front to back listen."
         },
         {
             "artist": "SZA",
@@ -398,10 +398,23 @@
                 "thumb": "https://c1.staticflickr.com/5/4774/40739801552_36c7e41096_o.jpg"
             },
             "releaseDate": "June 9, 2017",
-            "genres": ["hip hop", "neo soul"],
+            "genres": ["r&b", "neo soul", "contemporary r&b"],
             "favoriteTracks": ["Doves In The Wind", "Broken Clocks", "Drew Barrymore", "Love Galore", "The Weekend", "Pretty Little Birds", "Supermodel"],
             "listen": "https://soundcloud.com/topdawgent/sza-twoam",
             "thoughts": "I've been listening to SZA for quite awhile now. I always loved her features but never knew her TRUE potential. I really enjoyed her 'Z' project and was hoping she would drop another one. I really enjoyed Childs Play (feat Chance The Rapper), Warm Winds (feat Isaiah Rashad), Babylon (feat Kendrick Lamar) and Sweet November. When Ctrl came out, I literally lost my shit. I was bumping this album for at least like 6 months straight. I love this entire album front to back. Can't wait for the next one from SZA."
+        },
+        {
+            "artist": "Daniel Caesar",
+            "album": "Freudian",
+            "image": {
+                "modal": "https://c1.staticflickr.com/5/4785/25929296907_622abb25c2_b.jpg",
+                "thumb": "https://c1.staticflickr.com/5/4785/25929296907_622abb25c2_b.jpg"
+            },
+            "releaseDate": "June 9, 2017",
+            "genres": ["r&b", "soul"],
+            "favoriteTracks": ["Get You", "Hold Me Down", "Best Part", "Take Me Away", "We Find Love"],
+            "listen": "https://soundcloud.com/danielcaesar/get-you-kali-uchis",
+            "thoughts": "First track I ever heard from Daniel Caesar was Get You feat. Kali Uchis. This song literally made me feel some weird shit I have never felt before. It was smooth... TOO SMOOTH... and strangely seductive. Left me wanting more... I love this dudes voice. I love his style, his demeanor, his dorkiness. If I was a girl I'd have posters and magazine cutouts of him all over my walls. Marry me Daniel Caesar. I love you. Jokes aside (or not) GIVE THIS ALBUM A LISTEN. BRING A MOP OR SOMETHING TO WIPE THE MESS YOU'RE ABOUT TO LEAVE."
         }
     ]
 }
