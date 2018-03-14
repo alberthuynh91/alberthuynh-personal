@@ -30,7 +30,7 @@ const ListensModal = React.createClass({
                     <h5>{this.props.entry.artist}</h5>
                     <p>{this.props.entry.album}</p>
                     <p><b>Favorite Tracks</b>: {this.props.entry.favoriteTracks.join(', ')}</p>
-                    <p><b>Thoughts: </b>: {this.props.entry.thoughts}</p>
+                    <p><b>Thoughts</b>: {this.props.entry.thoughts}</p>
                     <span className='categories'>
                         <i className='fa fa-tag'/>
                         {this.props.entry.genres.join(', ')}
