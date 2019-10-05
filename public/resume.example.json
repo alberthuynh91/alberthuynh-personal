@@ -440,6 +440,21 @@
             "favoriteTracks": ["Suede", "Link Up", "Dntstop", "Anthrtime"],
             "listen": "https://soundcloud.com/stonesthrow/nxworries-anderson-paak-knxwledge-suede",
             "thoughts": "Name a more iconic duo? I'll wait... yup, haha. This is a collab between Knxwledge and Anderson .Paak that is smooth as a mothafucka, suede on the inside. Candy paint candy paint. I ain't gotta tell you what the rims look like. LOOK. Can't go wrong when you pair Knxwledges smooth ass production with Anderson Paak's smooth ass voice. FUCKING SMOOTH. Peep it. YES LAWD!!!! Don't be fuckin wit my tape deck."
+        },
+        {
+            "artist": "Blood Orange",
+            "album": "Negro Swan",
+            "image": {
+                "modal": "https://live.staticflickr.com/65535/48848678243_cf972911d8_b.jpg",
+                "thumb": "https://live.staticflickr.com/65535/48848678243_cf972911d8_b.jpg"
+            },
+            "releaseDate": "August 24, 2018",
+            "genres": ["alternative", "indie", "funk", "soul", "bedroom pop"],
+            "favoriteTracks": ["Charcoal Baby", "Saint", "Orlando", "Jewelry"],
+            "listen": "https://soundcloud.com/bloodorange/sets/negro-swan",
+            "thoughts": "One of my favorite albums of 2018. Super funky, super groovy, super smooth."
         }
+
+        
     ]
 }
